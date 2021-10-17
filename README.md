@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/homan2070/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://homan2070.github.io/stats-preview-card-component/)
+- Solution URL: [my solution on github](https://github.com/homan2070/stats-preview-card-component)
+- Live Site URL: [my live site ](https://homan2070.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -64,10 +64,10 @@ not afraid of putting div
 
 ### Useful resources
 
-- [Mr.coder](https://www.youtube.com/channel/UCsv_Hi2fnZ_FGG0rko1OzWg) - 
+- [Mr.coder](https://www.youtube.com/channel/UCsv_Hi2fnZ_FGG0rko1OzWg) - his youtube channel
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/homan2070)
+- Frontend Mentor - [@homan2070](https://www.frontendmentor.io/profile/homan2070)
 
 
