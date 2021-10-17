@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  /* background-color: hsl(233, 47%, 7%); */
+  background-color: hsl(233, 47%, 7%);
   font-size: 15px;
 }
 .container {
@@ -96,6 +96,7 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: white;
 }
 
 .attribution a {
